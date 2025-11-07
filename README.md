@@ -24,7 +24,7 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 
 ---
 
-## Thesis work 
+## 🚀 Thesis work 
 | Paper | Description | Tech Stack |
 |--------|-------------|-------------|
 |[Brain-tumor-segmentation](https://drive.google.com/file/d/1orK53pwOfCVQc3BXY5tp3Oz3Z1QcJyG3/view?usp=drive_link)|3D Brain Tumor Segmentation Hybrid U-Net with Res-Net and Attention Network|  Python · TensorFlow/Keras · PyTorch · Attention Networks · Residual Networks · 3D CNNs |
