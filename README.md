@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Arkadeep Sengupta  
 **Senior Software Engineer (AI) @ Schneider Electric**  
-AI Researcher • Builder of Scalable RAG Systems & 1-Bit LLM • PyTorch · CUDA · MLOps · RecSys
+AI Researcher • Builder of Scalable RAG Systems • PyTorch · CUDA · MLOps · RecSys
 
 ---
 
