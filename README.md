@@ -19,10 +19,15 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 | Project | Description | Tech Stack |
 |--------|-------------|-------------|
 | [research-paper-recommender](https://github.com/strawhat98/research_recommender) | Research Paper recommendation System | Python · ZenML · Qdrant · Streamlit | 
-|[Stroke Prediction Algorithm](https://github.com/strawhat98/stroke_prediction_analysis)) | Brain Stroke Prediction Analysis | Python · Scikit-Learn · pandas |
+|[Stroke Prediction Algorithm](https://github.com/strawhat98/stroke_prediction_analysis) | Brain Stroke Prediction Analysis | Python · Scikit-Learn · pandas |
 
 
 ---
+
+## Thesis work 
+| Paper | Description | Tech Stack |
+|--------|-------------|-------------|
+|[Brain-tumor-segmentation](https://drive.google.com/file/d/1orK53pwOfCVQc3BXY5tp3Oz3Z1QcJyG3/view?usp=drive_link)|3D Brain Tumor Segmentation Hybrid U-Net with Res-Net and Attention Network|  Python · TensorFlow/Keras · PyTorch · Attention Networks · Residual Networks · 3D CNNs |
 
 ### 📊 GitHub Stats  
 ![Arkadeep Sengupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawhat98&show_icons=true&theme=radical)  
