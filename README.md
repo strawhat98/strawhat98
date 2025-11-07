@@ -25,8 +25,8 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ---
 
 ### 📊 GitHub Stats  
-![Arkadeep’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Arkadeep Sengupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawhat98&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawhat98&layout=compact&theme=radical)
 
 ---
 
