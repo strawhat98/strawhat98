@@ -18,8 +18,8 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ### 🚀 Featured Projects  
 | Project | Description | Tech Stack |
 |--------|-------------|-------------|
-| [research-paper-recommender]([https://github.com/yourusername/1-bit-llm](https://github.com/strawhat98/research_recommender)) | Research Paper recommendation System | Python · ZenML · Qdrant · Streamlit | 
-|Stroke Prediction Algorithm]([https://github.com/yourusername/mindcache](https://github.com/strawhat98/stroke_prediction_analysis)) | Brain Stroke Prediction Analysis | Python · Scikit-Learn · pandas |
+| [research-paper-recommender](https://github.com/strawhat98/research_recommender) | Research Paper recommendation System | Python · ZenML · Qdrant · Streamlit | 
+|[Stroke Prediction Algorithm](https://github.com/strawhat98/stroke_prediction_analysis)) | Brain Stroke Prediction Analysis | Python · Scikit-Learn · pandas |
 
 
 ---
