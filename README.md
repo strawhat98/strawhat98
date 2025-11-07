@@ -11,16 +11,16 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ---
 
 ### 🧠 Technical Focus  
-`Python` · `PyTorch` · `CUDA` · `TensorRT` · `LangChain` · `ZenML` · `AWS` · `MLOps` · `FAISS` · `RecSys`
+`Python` ·`Pyspark`. `PyTorch` · `CUDA` · `TensorRT` · `LangChain` · `Databricks` · `AWS` · `MLOps` · `FAISS` · `RecSys`
 
 ---
 
 ### 🚀 Featured Projects  
 | Project | Description | Tech Stack |
 |--------|-------------|-------------|
-| [1-Bit LLM](https://github.com/yourusername/1-bit-llm) | Research on ultra-efficient low-bit LLM inference | PyTorch · CUDA · TensorRT |
-| [MindCache (RAG Systems)](https://github.com/yourusername/mindcache) | Scalable RAG + MLOps pipeline for conversational search | LangChain · FAISS · ZenML |
-| [AI-Powered Game Engine](https://github.com/yourusername/AI-GameEngine) | Indie open-world game engine with AI boss battles & generative narrative | Unity · Python · GenAI APIs |
+| [research-paper-recommender]([https://github.com/yourusername/1-bit-llm](https://github.com/strawhat98/research_recommender)) | Research Paper recommendation System | Python · ZenML · Qdrant · Streamlit | 
+|Stroke Prediction Algorithm]([https://github.com/yourusername/mindcache](https://github.com/strawhat98/stroke_prediction_analysis)) | Brain Stroke Prediction Analysis | Python · Scikit-Learn · pandas |
+
 
 ---
 
@@ -31,6 +31,6 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ---
 
 ### 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/arkadeep-sengupta) • [Instagram – Travelling Pointer](https://www.instagram.com/travellingpointer) • [Twitter/X](https://twitter.com/yourhandle)
+[LinkedIn](https://www.linkedin.com/in/senarka99/) · [Twitter/X](https://x.com/sengu9877)
 
 ⭐ *Engineering intelligence that scales — from models to minds.*  
