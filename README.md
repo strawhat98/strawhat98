@@ -31,8 +31,13 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 |[Brain-tumor-segmentation](https://drive.google.com/file/d/1orK53pwOfCVQc3BXY5tp3Oz3Z1QcJyG3/view?usp=drive_link)|3D Brain Tumor Segmentation Hybrid U-Net with Res-Net and Attention Network|  Python · TensorFlow/Keras · PyTorch · Attention Networks · Residual Networks · 3D CNNs |
 
 ### 📊 GitHub Stats  
-![Arkadeep Sengupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawhat98&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawhat98&layout=compact&theme=radical)
+🔗 GitHub: https://github.com/strawhat98
+
+• AI / ML Engineering
+• PyTorch, LLMs, RAG, MLOps
+• Production-grade systems at Schneider Electric
+
+![Profile views](https://counter.kuber.studio/strawhat98/hacker/count.svg)
 ---
 ### 🌐 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/senarka99/) · [Twitter/X](https://x.com/sengu9877)
