@@ -34,9 +34,6 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ![Arkadeep Sengupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawhat98&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawhat98&layout=compact&theme=radical)
 ---
-
-![Profile views](https://counter.kuber.studio/strawhat98/hacker/count.svg)
-
 ### 🌐 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/senarka99/) · [Twitter/X](https://x.com/sengu9877)
 
