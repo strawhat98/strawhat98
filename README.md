@@ -18,6 +18,7 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ### 🚀 Featured Projects  
 | Project | Description | Tech Stack |
 |--------|-------------|-------------|
+|[Rag_movie_recommender](strawhat98/rag-movie-chatbot) | Rag Movie Recommendation system | Langchain · Llama · FAISS · SentenceTransformer  |
 |[Langgraph_emotion_detection_aiAgent](https://github.com/strawhat98/Langgraph_emotion_detection_aiAgent) | Emotion Detection Agent | Langgraph · Ollama · Tavily |
 | [research-paper-recommender](https://github.com/strawhat98/research_recommender) | Research Paper recommendation System | Python · ZenML · Qdrant · Streamlit | 
 |[Stroke Prediction Algorithm](https://github.com/strawhat98/stroke_prediction_analysis) | Brain Stroke Prediction Analysis | Python · Scikit-Learn · pandas |
