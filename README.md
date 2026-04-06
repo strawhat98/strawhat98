@@ -6,7 +6,7 @@ AI Researcher • Builder of Scalable RAG Systems • PyTorch · CUDA · MLOps �
 
 ### 🔍 About Me  
 I work at the intersection of production-grade AI systems & research-driven innovation, designing scalable conversational search, RAG pipelines, and efficient LLM inference using CUDA/TensorRT.  
-Beyond work, I build indie AI-driven game worlds, share knowledge in open source .
+Beyond work, I build indie AI-driven game worlds, share knowledge in open source.
 
 ---
 
@@ -32,7 +32,7 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 |[Brain-tumor-segmentation](https://drive.google.com/file/d/1orK53pwOfCVQc3BXY5tp3Oz3Z1QcJyG3/view?usp=drive_link)|3D Brain Tumor Segmentation Hybrid U-Net with Res-Net and Attention Network|  Python · TensorFlow/Keras · PyTorch · Attention Networks · Residual Networks · 3D CNNs |
 
 ### 📊 GitHub Stats  
-🔗 GitHub: https://github.com/strawhat98
+🔗 GitHub: https://github.com/senarkadp
 
 • AI / ML Engineering
 • PyTorch, LLMs, RAG, MLOps
@@ -41,6 +41,6 @@ Beyond work, I build indie AI-driven game worlds, share knowledge in open source
 ![Profile views](https://counter.kuber.studio/strawhat98/hacker/count.svg)
 ---
 ### 🌐 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/senarka99/) · [Twitter/X](https://x.com/sengu9877)
+[LinkedIn](https://www.linkedin.com/in/senarka99/) · [Twitter/X](https://x.com/sengu9877) · [portfolio](https://arkadeep-ai-portfolio.vercel.app/)
 
 ⭐ *Engineering intelligence that scales — from models to minds.*  
