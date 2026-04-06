@@ -6,7 +6,7 @@ AI Researcher • Builder of Scalable RAG Systems • PyTorch · CUDA · MLOps �
 
 ### 🔍 About Me  
 I work at the intersection of production-grade AI systems & research-driven innovation, designing scalable conversational search, RAG pipelines, and efficient LLM inference using CUDA/TensorRT.  
-Beyond work, I build indie AI-driven game worlds, share knowledge in open source.
+Beyond work, I build indie AI-driven game worlds, share knowledge in open source .
 
 ---
 
